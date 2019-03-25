@@ -1,7 +1,7 @@
 .DS_Store
 .sass-cache/*
 /sass-cache
-source/css/style.css
-source/css/scss/style.css
-source/css/scss/maps/*
-source/css/maps
+css/style.css
+css/scss/style.css
+css/scss/maps/*
+css/maps
