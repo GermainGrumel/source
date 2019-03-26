@@ -1,5 +1,7 @@
 {
-  "icones-class" : "icn_",
-  "icones-src" : "",
-  "icones-alt" : "Icone"
+  "loopiconefb" : true,
+  "loopiconetwitter" : true,
+  "loopiconelink" : true,
+  "loopiconeslack" : true,
+  "loopiconesearch" : true
 }
