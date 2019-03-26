@@ -1,7 +1,7 @@
 
     {
       "label-for" : "",
-      "label-content" : "test label pour input",
+      "label-content" : "EMAIL",
       "input-id" : "",
-      "input-placeholder" : "test input"
+      "input-placeholder" : "Your email"
     }

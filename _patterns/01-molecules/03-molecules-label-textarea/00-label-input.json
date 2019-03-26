@@ -1,6 +1,6 @@
 
     {
       "label-for" : "",
-      "label-content" : "test label pour textarea",
-      "textarea-placeholder" : "test textarea"
+      "label-content" : "YOUR MESSAGE",
+      "textarea-placeholder" : "Your Message"
     }
